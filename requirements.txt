@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+opencv-contrib-python
+scikit-learn
+pandas
+pywin32  # For Windows text-to-speech (optional)
